@@ -3,7 +3,7 @@
  *  CSCI 470/680          Assignment 3 - P2    Summer 2018  *
  *                                                          *
  *  Programmers: Usman Hussain                              *
- *               Nicholas Swanson                           *   
+ *                                                          *   
  *                                                          *
  *  Date Due:   07/03/18                                    *
  *                                                          *
